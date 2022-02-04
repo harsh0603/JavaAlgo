@@ -121,10 +121,12 @@ public class stackUsingArray {
 
 
 
-         
+
 
          public static void main(String[] args) {
              stackUsingArray sua = new stackUsingArray(10);
+            //  System.out.println(sua.pop());
+             
              sua.push(1);
              sua.push(4);
              sua.push(6);
