@@ -1,4 +1,4 @@
-package OOPS3;
+
 
 interface VehicleInteface{
     public void print(); 
