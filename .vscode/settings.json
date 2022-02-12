@@ -1,3 +1,9 @@
 {
-    "java.project.sourcePaths": []
+    "java.project.sourcePaths": [
+        "Stacks",
+        "Searching_Sorting",
+        "Queue",
+        "OOPS3",
+        "LinkedList"
+    ]
 }
